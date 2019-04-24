@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+app1-root {
+    display: inline-block;
+    position: absolute;
+    margin-top: calc(-100vh + 20px);
+    margin-left: 180px;
+    width: calc(100vw - 250px);
+    border: 20px solid #16c5e4;
+    height: calc(100vh - 60px);
+}
+app2-root {
+    display: inline-block;
+    position: absolute;
+    margin-top: calc(-100vh + 20px);
+    margin-left: 180px;
+    width: calc(100vw - 250px);
+    border: 20px solid #e41620;
+    height: calc(100vh - 60px);
+}

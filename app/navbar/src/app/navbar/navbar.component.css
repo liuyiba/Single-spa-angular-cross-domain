@@ -1,0 +1,26 @@
+.nav {
+    width: 180px;
+    display: inline-block;
+    height: calc(100vh - 120px);
+    background-color: #39414d;
+    padding-top: 100px;
+}
+
+li,
+a {
+    height: 100px;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-item {
+    color: #fff;
+
+}
